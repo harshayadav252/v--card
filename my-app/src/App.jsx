@@ -14,8 +14,7 @@ function ProfileCard() {
           <h2>Harsha Yadav</h2>
           <p className="role">Software Developer</p>
           <p className="desc">
-            <br></br>
-  I’m learning web development with HTML, CSS, and React.
+ Passionate about Web Development, Java, Data Structures and building modern user interfaces using React.
 </p>
           <button
             className="btn"
@@ -23,8 +22,6 @@ function ProfileCard() {
             View More
           </button>
         </div>
-        <br></br>
-        <br></br>
         <div className="back">
           <h2>Connect With Me</h2>
           <div className="buttons">
